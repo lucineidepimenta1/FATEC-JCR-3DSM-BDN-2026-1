@@ -65,6 +65,9 @@ Após esse horário, não será permitida a entrada para realização da prova.
 
 A prova foi elaborada com base nos conteúdos desenvolvidos ao longo do semestre, incluindo as atividades práticas e o Projeto ABP. Recomenda-se a revisão dos materiais disponibilizados, exercícios realizados em sala e atividades de preparação.
 
+### Datas e Pesos das Atividades e Avaliações
+Link: https://github.com/lucineidepimenta1/FATEC-JCR-3DSM-BDN-2026-1/blob/main/P1-Conteudos/Aulas/Aula01/BDN-Aula01.pdf
+
 Desejo a todos uma excelente revisão e uma ótima avaliação.
 
 **Prof.ª Lucineide.**
